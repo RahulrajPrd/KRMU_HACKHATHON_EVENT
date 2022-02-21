@@ -1,2 +1,6 @@
 # KRMU_HACKHATHON_EVENT
 This repository contains the python file for the KRMU HACKHATHON EVENT. Name of the project is KRMU DIGITAL LIBRARY.
+NAME: RAHUL RAJ PARIDA
+COURSE : BTECH CSE AIML
+ROLLNO: 2101730027
+
